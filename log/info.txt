@@ -1,0 +1,746 @@
+2023-05-24 18:41:17    ----    Main    ----    {}
+2023-05-24 18:41:17    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:41:17    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:41:17    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:41:17    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 18:41:17    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:41:17    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 18:41:23    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-24 18:41:23    ----    BiaoNodeListener    ----    进行连接
+2023-05-24 18:41:23    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-24 18:41:23    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-24 18:41:23    ----    LeftJPanel    ----    刷新JTRee
+2023-05-24 18:41:26    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-24 18:41:26    ----    BiaoNodeListener    ----    连接数据库
+2023-05-24 18:41:26    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-24 18:41:26    ----    BiaoNodeListener    ----    成功
+2023-05-24 18:41:26    ----    LeftJPanel    ----    刷新JTRee
+2023-05-24 18:41:27    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-24 18:41:27    ----    BiaoNodeListener    ----    连接数据库
+2023-05-24 18:41:27    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-24 18:41:27    ----    BiaoNodeListener    ----    成功
+2023-05-24 18:41:27    ----    LeftJPanel    ----    刷新JTRee
+2023-05-24 18:41:28    ----    BiaoNodeListener    ----    选中 -> city
+2023-05-24 18:53:32    ----    Main    ----    {}
+2023-05-24 18:53:33    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:53:33    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:53:33    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:53:33    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 18:53:33    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:53:33    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 18:53:36    ----    MoveCenter    ----    mx = 46
+2023-05-24 18:53:37    ----    MoveCenter    ----    mx = 74
+2023-05-24 18:57:31    ----    Main    ----    {}
+2023-05-24 18:57:32    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:57:32    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 18:57:32    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:57:32    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 18:57:32    ----    LeftJPanel    ----     => mysql5
+2023-05-24 18:57:32    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 18:57:35    ----    MoveCenter    ----    mx = 68
+2023-05-24 18:57:37    ----    MoveCenter    ----    mx = 87
+2023-05-24 18:57:40    ----    MoveCenter    ----    mx = -78
+2023-05-24 18:57:44    ----    MoveCenter    ----    mx = 128
+2023-05-24 18:57:47    ----    MoveCenter    ----    mx = -144
+2023-05-24 19:06:10    ----    Main    ----    {}
+2023-05-24 19:06:10    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 19:06:10    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 19:06:10    ----    LeftJPanel    ----     => mysql5
+2023-05-24 19:06:10    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 19:06:10    ----    LeftJPanel    ----     => mysql5
+2023-05-24 19:06:10    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 19:06:17    ----    MoveCenter    ----    mx = 84
+2023-05-24 19:06:19    ----    MoveCenter    ----    mx = -120
+2023-05-24 20:19:34    ----    Main    ----    {}
+2023-05-24 20:19:34    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:19:34    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:19:34    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:19:34    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 20:19:34    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:19:34    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 20:19:37    ----    MoveCenter    ----    mx = 95
+2023-05-24 20:19:39    ----    MoveCenter    ----    mx = 62
+2023-05-24 20:19:41    ----    MoveCenter    ----    mx = -166
+2023-05-24 20:21:10    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-24 20:21:10    ----    BiaoNodeListener    ----    进行连接
+2023-05-24 20:21:10    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-24 20:21:10    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-24 20:21:10    ----    LeftJPanel    ----    刷新JTRee
+2023-05-24 20:21:12    ----    MoveCenter    ----    mx = 151
+2023-05-24 20:34:53    ----    Main    ----    {}
+2023-05-24 20:34:54    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:34:54    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:34:54    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:34:54    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 20:34:54    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:34:54    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-24 20:34:57    ----    MoveCenter    ----    mx = -28
+2023-05-24 20:35:04    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-24 20:35:04    ----    BiaoNodeListener    ----    进行连接
+2023-05-24 20:35:04    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-24 20:35:05    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-24 20:35:05    ----    LeftJPanel    ----    刷新JTRee
+2023-05-24 20:38:43    ----    Main    ----    {}
+2023-05-24 20:38:43    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:38:43    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-24 20:38:43    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:38:43    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-24 20:38:43    ----    LeftJPanel    ----     => mysql5
+2023-05-24 20:38:43    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:07:03    ----    Main    ----    {}
+2023-05-25 09:07:04    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:07:04    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:07:04    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:07:04    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:07:04    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:07:04    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:07:09    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:07:09    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:07:09    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:07:09    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:07:09    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:07:16    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:07:16    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:07:16    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /information_schema
+2023-05-25 09:07:16    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:07:16    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:07:22    ----    BiaoNodeListener    ----    选中-> 查询
+2023-05-25 09:07:23    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:07:23    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:07:23    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:07:23    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:07:23    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:07:24    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:07:26    ----    MoveCenter    ----    mx = 56
+2023-05-25 09:07:28    ----    MoveCenter    ----    mx = 66
+2023-05-25 09:07:32    ----    MoveCenter    ----    mx = -71
+2023-05-25 09:09:17    ----    Main    ----    {}
+2023-05-25 09:09:17    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:09:17    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:09:17    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:09:17    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:09:17    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:09:17    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:09:24    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:09:24    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:09:24    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:09:24    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:09:25    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:09:25    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:09:25    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:09:39    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:09:39    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:09:39    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:09:39    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:09:39    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:09:39    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:09:39    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:09:40    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:09:40    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:09:40    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:09:40    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:09:40    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:09:40    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:09:40    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:10:23    ----    Main    ----    {}
+2023-05-25 09:10:23    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:10:23    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:10:23    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:10:23    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:10:23    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:10:23    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:10:26    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:10:26    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:10:26    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:10:27    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:10:27    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:10:27    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:10:27    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:10:30    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:10:30    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:10:30    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:10:30    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:10:30    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:10:30    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:10:30    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:10:31    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:10:31    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:10:31    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:10:31    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:10:31    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:10:31    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:10:31    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:11:55    ----    Main    ----    {}
+2023-05-25 09:11:55    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:11:55    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:11:55    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:11:55    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:11:55    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:11:55    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:12:01    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:12:01    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:12:01    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:12:01    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:12:01    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:12:01    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:12:01    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:12:01    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:12:11    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:12:11    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:12:11    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:12:11    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:12:11    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:12:11    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:12:11    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:12:11    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:12:12    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:12:12    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:12:12    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:12:12    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:12:12    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:12:12    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:12:12    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:12:12    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:12:13    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:13:11    ----    Main    ----    {}
+2023-05-25 09:13:11    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:13:11    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:13:11    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:13:11    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:13:11    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:13:11    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:13:13    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:13:14    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:13:14    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:13:14    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:13:14    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:13:14    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:13:14    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:13:14    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:13:14    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:13:14    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:13:16    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:13:16    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:13:16    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:13:16    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:13:16    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:13:16    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:13:16    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:13:16    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:13:16    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:13:16    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:13:17    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:13:17    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:13:17    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:13:17    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:13:17    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:13:17    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:13:17    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:13:17    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:13:17    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:13:17    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:14:20    ----    Main    ----    {}
+2023-05-25 09:14:20    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:14:20    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:14:20    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:14:20    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:14:20    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:14:20    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:14:22    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:14:22    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:14:22    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:14:22    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:14:22    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:14:22    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:14:22    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:14:22    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:14:22    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:14:22    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:14:24    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:14:24    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:14:24    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:14:24    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:14:24    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:14:24    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:14:24    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:14:24    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:14:24    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:14:24    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:14:25    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:14:25    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:14:25    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:14:25    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:14:25    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:14:25    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:14:25    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:14:25    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:14:25    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:14:25    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:15:58    ----    Main    ----    {}
+2023-05-25 09:15:59    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:15:59    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:15:59    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:15:59    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:15:59    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:15:59    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:16:02    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:16:02    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:16:02    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:16:02    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:16:02    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:02    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:16:02    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:16:02    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:02    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:16:02    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:16:04    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:16:04    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:16:04    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:16:04    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:16:04    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:04    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:16:04    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:16:04    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:04    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:16:04    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:16:05    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:16:05    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:16:05    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:16:05    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:16:05    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:05    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:16:05    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:16:05    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:05    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:16:05    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:16:06    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:16:47    ----    Main    ----    {}
+2023-05-25 09:16:48    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:16:48    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:16:48    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:16:48    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:16:48    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:16:48    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:16:50    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:16:50    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:16:50    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:16:50    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:16:50    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:50    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:16:50    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:16:50    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:50    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:16:50    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:16:52    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:16:52    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:16:52    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:16:52    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:16:52    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:52    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:16:52    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:16:52    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:52    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:16:52    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:16:53    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:16:53    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:16:53    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:16:53    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:16:53    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:16:53    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:16:53    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:16:53    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:16:53    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:16:53    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:17:35    ----    Main    ----    {}
+2023-05-25 09:17:35    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:17:35    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:17:35    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:17:35    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:17:35    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:17:35    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:17:37    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:17:37    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:17:37    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:17:37    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:17:37    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:17:37    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:17:37    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:17:37    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:17:37    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:17:37    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:17:39    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:17:39    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:17:39    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:17:39    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:17:39    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:17:40    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:17:40    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:17:40    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:17:40    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:17:40    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:17:40    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:17:40    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:17:40    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:17:40    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:17:40    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:17:41    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:20:00    ----    Main    ----    {}
+2023-05-25 09:20:00    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:20:00    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:20:00    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:20:00    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:20:00    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:20:00    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:20:03    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:20:03    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:20:03    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:20:03    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:20:03    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:20:03    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:20:03    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:20:03    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:20:03    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:20:03    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:20:05    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:20:05    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:20:05    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:20:05    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:20:05    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:20:05    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:20:05    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:20:05    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:20:05    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:20:05    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:20:06    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:20:07    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:20:07    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:20:07    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:20:07    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:20:07    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:20:07    ----    LeftJPanel    ----    jTree.height = 630
+2023-05-25 09:20:07    ----    LeftJScrollPane    ----    jsp.x = 0
+2023-05-25 09:20:07    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:20:07    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:20:07    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:23:18    ----    Main    ----    {}
+2023-05-25 09:23:18    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:23:18    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:23:18    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:23:18    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:23:18    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:23:18    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:23:20    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:23:20    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:23:20    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:23:20    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:23:20    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:23:20    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:23:20    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:23:20    ----    LeftJScrollPane    ----    jsp.x = 105
+2023-05-25 09:23:20    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:23:20    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:23:53    ----    Main    ----    {}
+2023-05-25 09:23:53    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:23:53    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:23:53    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:23:53    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:23:53    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:23:53    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:23:55    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:23:55    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:23:55    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:23:55    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:23:55    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:23:55    ----    LeftJPanel    ----    jTree.width = 292
+2023-05-25 09:23:55    ----    LeftJPanel    ----    jTree.height = 105
+2023-05-25 09:23:55    ----    LeftJScrollPane    ----    jsp.x = 105
+2023-05-25 09:23:55    ----    LeftJScrollPane    ----    jsp.w = 292
+2023-05-25 09:23:55    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:23:57    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:23:57    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:23:57    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:23:57    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:23:57    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:23:57    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:23:57    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:23:57    ----    LeftJScrollPane    ----    jsp.x = 525
+2023-05-25 09:23:57    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:23:57    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:23:58    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:23:58    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:23:58    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:23:58    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:23:58    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:23:58    ----    LeftJPanel    ----    jTree.width = 380
+2023-05-25 09:23:58    ----    LeftJPanel    ----    jTree.height = 525
+2023-05-25 09:23:58    ----    LeftJScrollPane    ----    jsp.x = 525
+2023-05-25 09:23:58    ----    LeftJScrollPane    ----    jsp.w = 380
+2023-05-25 09:23:58    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:23:59    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:53:10    ----    Main    ----    {}
+2023-05-25 09:53:10    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:53:10    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:53:10    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:53:10    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:53:10    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:53:10    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:53:14    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:53:14    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:53:14    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:53:14    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:53:14    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:53:14    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:53:17    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:53:18    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:53:18    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:53:18    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:53:18    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:53:18    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:53:19    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:53:19    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:53:19    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:53:19    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:53:19    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:53:19    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:53:20    ----    BiaoNodeListener    ----    选中 -> countrylanguage
+2023-05-25 09:55:57    ----    Main    ----    {}
+2023-05-25 09:55:58    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:55:58    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:55:58    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:55:58    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:55:58    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:55:58    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:56:01    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:56:01    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:01    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:56:01    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:56:01    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:56:01    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:01    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:02    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:03    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:04    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:56:04    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:04    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:04    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:56:04    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:04    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:04    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:05    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:56:05    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:05    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:05    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:56:05    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:05    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:06    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:10    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:10    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:11    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:12    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:12    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:14    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:15    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:18    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:19    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:20    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:20    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:23    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:24    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:25    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:56:25    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:26    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:26    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /blog
+2023-05-25 09:56:26    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:26    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:26    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:27    ----    BiaoNodeListener    ----    选中-> 函数
+2023-05-25 09:56:27    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:27    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:27    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /blog
+2023-05-25 09:56:27    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:27    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:27    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:28    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:56:28    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:29    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:29    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /mysql
+2023-05-25 09:56:29    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:29    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:29    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:30    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:56:30    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:56:30    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:56:30    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /mysql
+2023-05-25 09:56:30    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:56:30    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:56:31    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:25    ----    Main    ----    {}
+2023-05-25 09:58:26    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:58:26    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:58:26    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:58:26    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:58:26    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:58:26    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:58:27    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:58:27    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:28    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:58:28    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:58:28    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:58:28    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:58:28    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:29    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:30    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:30    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:30    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:31    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:31    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:31    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:31    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:32    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:32    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:32    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:32    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:33    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:33    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:33    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:33    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:42    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:58:42    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:42    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:58:42    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:58:42    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:58:42    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:58:42    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:44    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:58:44    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:58:44    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:58:44    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:58:44    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:58:44    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:58:44    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:59:04    ----    Main    ----    {}
+2023-05-25 09:59:05    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:59:05    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:59:05    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:59:05    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:59:05    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:59:05    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:59:07    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:59:07    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:59:07    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:59:07    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:59:07    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:59:07    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:59:07    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:59:08    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:59:08    ----    LeftJScrollPane    ----    刷新左边JSP
+2023-05-25 09:59:42    ----    Main    ----    {}
+2023-05-25 09:59:43    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:59:43    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 09:59:43    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:59:43    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 09:59:43    ----    LeftJPanel    ----     => mysql5
+2023-05-25 09:59:43    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 09:59:44    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 09:59:45    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 09:59:45    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 09:59:45    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 09:59:45    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:59:47    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:59:48    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 09:59:48    ----    BiaoNodeListener    ----    成功
+2023-05-25 09:59:48    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 09:59:50    ----    MoveCenter    ----    mx = 222
+2023-05-25 09:59:52    ----    MoveCenter    ----    mx = -451
+2023-05-25 10:00:33    ----    Main    ----    {}
+2023-05-25 10:00:33    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:00:33    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:00:33    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:00:33    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 10:00:33    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:00:33    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 10:00:35    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 10:00:35    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 10:00:35    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 10:00:35    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 10:00:35    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 10:00:37    ----    MoveCenter    ----    mx = 76
+2023-05-25 10:00:39    ----    MoveCenter    ----    mx = -165
+2023-05-25 10:00:41    ----    MoveCenter    ----    mx = 185
+2023-05-25 10:00:43    ----    MoveCenter    ----    mx = -258
+2023-05-25 10:01:12    ----    Main    ----    {}
+2023-05-25 10:01:12    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:01:12    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:01:12    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:01:12    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 10:01:12    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:01:12    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 10:01:14    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 10:01:15    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 10:01:15    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 10:01:15    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 10:01:15    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 10:01:17    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 10:01:17    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 10:01:17    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 10:01:17    ----    BiaoNodeListener    ----    成功
+2023-05-25 10:01:17    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 10:01:18    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-25 10:01:19    ----    BiaoNodeListener    ----    连接数据库
+2023-05-25 10:01:19    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 /world
+2023-05-25 10:01:19    ----    BiaoNodeListener    ----    成功
+2023-05-25 10:01:19    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 10:01:20    ----    MoveCenter    ----    mx = 139
+2023-05-25 10:01:22    ----    MoveCenter    ----    mx = -131
+2023-05-25 10:01:36    ----    Main    ----    {}
+2023-05-25 10:01:37    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:01:37    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-25 10:01:37    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:01:37    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-25 10:01:37    ----    LeftJPanel    ----     => mysql5
+2023-05-25 10:01:37    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-25 10:01:38    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-25 10:01:39    ----    BiaoNodeListener    ----    进行连接
+2023-05-25 10:01:39    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-25 10:01:39    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-25 10:01:39    ----    LeftJPanel    ----    刷新JTRee
+2023-05-25 10:01:43    ----    MoveCenter    ----    mx = 156
+2023-05-25 10:01:45    ----    MoveCenter    ----    mx = -161
+2023-05-31 13:05:04    ----    Main    ----    {}
+2023-05-31 13:05:05    ----    ConFile    ----    sqlJson = [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-31 13:05:05    ----    LeftJPanel    ----    [{"password":"123456","port":"3306","ip":"localhost","name":"mysql5","conname":"localhost","username":"root"},{"password":"Aa551322212","port":"3306","ip":"103.170.72.174","name":"mysql5","conname":"103.170.72.174","username":"root"}]
+2023-05-31 13:05:05    ----    LeftJPanel    ----     => mysql5
+2023-05-31 13:05:05    ----    LeftJPanel    ----     url => jdbc:mysql://localhost:3306 
+2023-05-31 13:05:05    ----    LeftJPanel    ----     => mysql5
+2023-05-31 13:05:05    ----    LeftJPanel    ----     url => jdbc:mysql://103.170.72.174:3306 
+2023-05-31 13:05:08    ----    BiaoNodeListener    ----    选中-> localhost
+2023-05-31 13:05:08    ----    BiaoNodeListener    ----    进行连接
+2023-05-31 13:05:08    ----    BiaoNodeListener    ----    url = jdbc:mysql://localhost:3306 
+2023-05-31 13:05:11    ----    BiaoNodeListener    ----    选中-> 103.170.72.174
+2023-05-31 13:05:11    ----    BiaoNodeListener    ----    进行连接
+2023-05-31 13:05:11    ----    BiaoNodeListener    ----    url = jdbc:mysql://103.170.72.174:3306 
+2023-05-31 13:05:12    ----    BiaoNodeListener    ----    连接到数据库
+2023-05-31 13:05:13    ----    LeftJPanel    ----    刷新JTRee
+2023-05-31 13:05:26    ----    BiaoNodeListener    ----    选中-> 函数
+2023-05-31 13:05:26    ----    BiaoNodeListener    ----    连接数据库
+2023-05-31 13:05:26    ----    BiaoNodeListener    ----    url = jdbc:mysql://103.170.72.174:3306 /zhsp
+2023-05-31 13:05:28    ----    BiaoNodeListener    ----    成功
+2023-05-31 13:05:28    ----    LeftJPanel    ----    刷新JTRee
+2023-05-31 13:05:28    ----    BiaoNodeListener    ----    选中-> 查询
+2023-05-31 13:05:30    ----    BiaoNodeListener    ----    连接数据库
+2023-05-31 13:05:30    ----    BiaoNodeListener    ----    url = jdbc:mysql://103.170.72.174:3306 /zhsp
+2023-05-31 13:05:31    ----    BiaoNodeListener    ----    成功
+2023-05-31 13:05:31    ----    LeftJPanel    ----    刷新JTRee
+2023-05-31 13:05:31    ----    BiaoNodeListener    ----    选中-> 表
+2023-05-31 13:05:33    ----    MoveCenter    ----    mx = 150

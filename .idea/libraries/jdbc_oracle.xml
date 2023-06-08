@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jdbc-oracle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/jdbc-oracle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/msutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mysql-connector-java-5.1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mysql-connector-java-8.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

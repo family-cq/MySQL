@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WinLog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/WinLog.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
